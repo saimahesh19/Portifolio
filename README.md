@@ -17,7 +17,7 @@ A highly cinematic, interactive portfolio website that presents Marpu Sai Mahesh
 
 ## 🎯 Live Demo
 
-Experience the cinematic portfolio: [Live Demo](https://your-deployment-url.vercel.app)
+Experience the cinematic portfolio: https://saimaheshmarpuportifolio.mgx.world
 
 ## 🚀 Quick Start
 
